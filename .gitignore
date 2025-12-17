@@ -1,0 +1,6 @@
+ThingSpeak_dashboard/aiot-2aadb-firebase-adminsdk-fbsvc-c0eac2a266.json
+*.db
+__pycache__/
+*.pyc
+.env
+node_modules/
